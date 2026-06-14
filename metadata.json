@@ -1,0 +1,6 @@
+{
+  "name": "Hak.Ku",
+  "description": "Asisten chatbot AI untuk bantuan hukum dasar di Indonesia. Memberikan panduan awal, definisi hukum sederhana, dan info lembaga bantuan hukum dengan hangat dan berempati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
